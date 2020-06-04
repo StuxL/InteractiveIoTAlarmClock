@@ -53,8 +53,8 @@
 ### arduino_secrets.h
 
 ```C++
-#define SECRET_SSID "AndroidAPe458"
-#define SECRET_PASS "daqs4330"
+#define SECRET_SSID "WIFI SSID"
+#define SECRET_PASS "WIFI PASSWORD"
 ```
 
 ---
