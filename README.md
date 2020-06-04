@@ -15,7 +15,7 @@
 
 **Software**
 
-###Arduino Libraries:
+### Arduino Libraries:
 
 - Adafruit ST7735 and ST7789 Library by Adafruit
 - WiFi101 by Arduino
