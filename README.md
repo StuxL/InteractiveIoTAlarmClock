@@ -51,8 +51,8 @@
 | ------------- | ------------- | --------------------- |
 | GND           | GND           | Ground Pin            |
 | VCC           | 3V3           | 3.3V power supply     |
-| SDA           | D8 (MOSI)     | SPI Serial Data Line	|
-| A0            | D3            | Display contrast   	|
+| SDA           | D0 (SDA)      | I2C Serial Data Line	|
+| SCL           | D1 (SCL)      | I2C Serial Clock Line |
 
 ## Installation
 
