@@ -32,7 +32,7 @@
 | Piezo Buzzer  | D4            | Digital Pin           |
 | Down Button   | D11           | Digital Pin           |
 | Enter Button  | D12           | Digital Pin           |
-| Piezo Buzzer  | D1            | Digital Pin           |
+| Up Button     | D1            | Digital Pin           |
 
 ### ST7735 Display
 | ST7735        | MKR1000       | Function              |
