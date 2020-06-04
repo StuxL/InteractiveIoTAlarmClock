@@ -23,7 +23,7 @@
 
 ***Circuit sketch diagram***
 
-[![INSERT YOUR GRAPHIC HERE](https://imgur.com/a/UoEqIta)]()
+[![INSERT YOUR GRAPHIC HERE](https://imgur.com/a/UoEqIta.png)]()
 
 ### ST7735 Display
 | ST7735        | MKR1000       | Function              |
@@ -72,17 +72,15 @@ $ curl https://api.particle.io/oauth/token \ -u particle:particle \ -d grant_typ
 > "GET /v1/devices/{DEVICE ID}/standingup?access_token={ACCESS TOKEN}&format=raw HTTP/1.1"
 
 10.	Load the firmware updater WiFi shield code
-[![INSERT YOUR GRAPHIC HERE](https://imgur.com/a/Tf9Kj7Y)]()
+[![INSERT YOUR GRAPHIC HERE](https://imgur.com/a/Tf9Kj7Y.jpg)]()
 9.	Load the root HTTPS certificate for the Particle API service and Tools > Firmware Updater > "Upload Certificates to WiFi module"
-[![INSERT YOUR GRAPHIC HERE](https://imgur.com/a/GUoEkCX)]()
+[![INSERT YOUR GRAPHIC HERE](https://imgur.com/a/GUoEkCX.jpg)]()
 11.	Configure the Particle Argon device and connect to the local Wi-Fi network
 12.	Load the code within the Git Hub repository under Wearable_Argon
 13.	Flash the device with new firmware
 14.	Connect both devices to a power source and ready to use
 
 ## Contributing
-
-> To get started...
 
 ### Step 1
 
