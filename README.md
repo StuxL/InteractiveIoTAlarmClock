@@ -97,7 +97,7 @@ $ curl https://api.particle.io/oauth/token \ -u particle:particle \ -d grant_typ
     - 🍴 Fork this repo!
 
 - **Option 2**
-    - 👯 Clone this repo to your local machine using `https://github.com/joanaz/HireDot2.git`
+    - 👯 Clone this repo to your local machine using `https://github.com/StuxL/InteractiveIoTAlarmClock.git`
 
 ### Step 2
 
