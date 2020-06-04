@@ -24,7 +24,7 @@
 
 ***Circuit sketch diagram***
 
-[![sketch diagram](https://imgur.com/a/UoEqIta.png)]()
+![sketch diagram](https://imgur.com/a/UoEqIta.png)
 
 ### ST7735 Display
 | ST7735        | MKR1000       | Function              |
@@ -36,7 +36,7 @@
 | RESET         | D2            | Reset safety pin      |
 | CS            | D6            | Identify slave device |
 | GND			| GND			| Ground pin			|
-| VCC			| 5V			| 5V Voltage In         |
+| VCC			| 5V			| 5V Power Supply       |
 
 ### Digital Tilt Sensor
 | MMA8452Q      | Argon         | Function              |
