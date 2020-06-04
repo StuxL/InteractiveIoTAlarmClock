@@ -24,7 +24,7 @@
 
 ***Circuit sketch diagram***
 
-![sketch diagram](https://imgur.com/a/UoEqIta.png)
+[![sketch diagram](https://imgur.com/a/UoEqIta.png)]()
 
 ### ST7735 Display
 | ST7735        | MKR1000       | Function              |
